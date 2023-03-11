@@ -1,3 +1,7 @@
 programmer2_code1
 
+<<<<<<< HEAD
 programmer2 edit here here
+=======
+programmer1 edit here here
+>>>>>>> 6167b9cbbfca1f23856e0ba20f9c40a9e03de215
